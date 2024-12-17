@@ -14,7 +14,7 @@
 <ins>✨ **Mes savoir-faire :** </ins>
 
 🌐 Figma, VS Code, **HTML/CSS** et **JavaScript** (et **bien d'autres à venir !** 😁)
-<br/>🔧 Intégration responsive et design adapté
+<br/>🔧 Intégration **responsive** et design adapté
 <br/>🛠️ **Maquetter des interfaces** utilisateur web & web mobile
 <br/>🔧 **Collaboration** sur des projets en équipe **(Git, GitHub)**
 <br/>🛠️ Mettre en place une **base de données relationnelle**
@@ -29,12 +29,12 @@
 
 <br/>
 
-🐾 Passionnée par les animaux, la photographie 📸 les sujets de société 🌱🌍 notamment le féminisme 💜🌈
-<br/>🌱 **Curieuse** et avec l'envie d'en **apprendre chaque jour** !
+🐾 Passionnée par les animaux 🐱🐶, la photographie 📸 les sujets de société 🌱🌍 notamment le féminisme 💜🌈
+<br/>🌱 **Curieuse** et avec l'envie d'en **apprendre plus chaque jour** ! 🌞
 
 <br/>
 
-<br/>🚀 Prête à coder, partager et **évoluer dans cet univers passionnant** qu'est le développement web !
+<br/>🚀 Prête à coder, partager et **évoluer dans cet univers passionnant** qu'est le développement web ! 💻
 
 <br/>
 
@@ -84,9 +84,9 @@
 
 <br/>
 
-🐾 Passionate about animals, photography 📸, and social issues 🌱🌍, particularly feminism 💜🌈
-<br/>🌱 Curious and eager to learn something new every day!
+🐾 Passionate about animals 🐱🐶, photography 📸, and social issues 🌱🌍, particularly feminism 💜🌈
+<br/>🌱 Curious and eager to learn something new every day ! 🌞
 
 <br/>
 
-🚀 Ready to code, share, and grow in this exciting world of web development!
+🚀 Ready to code, share, and grow in this exciting world of web development ! 💻
