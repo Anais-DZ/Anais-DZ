@@ -1,4 +1,4 @@
-👋 Salut ! Moi, c'est Anaïs !
+👋 Salut ! Moi, c'est Anaïs ! 😊
 
 💼 En reconversion professionnelle pour devenir développeuse web
 
@@ -16,15 +16,21 @@
 💡 Curieuse et rigoureuse dans mon travail
 🤝 Esprit d'équipe et bienveillance
 🚀 Motivée pour relever de nouveaux défis
-🐾 Passionnée par les animaux, la photographie 📸 et les sujets de société 🌍 notamment le féminisme 💜
+🐾 Passionnée par les animaux, la photographie 📸 et les sujets de société 🌍 notamment le féminisme 💜🌈
 🌱 Curieuse et motivée pour continuer à apprendre chaque jour !
 
 🚀 Prête à coder, partager et évoluer dans ce super univers qu'est le développement web !
 
-<p>........................................................................................................</p>
-<p>........................................................................................................</p>
-<p>........................................................................................................</p>
-<p>........................................................................................................</p>
+<p>                                                                                               </p>
+<p>                                     ......................                          </p>
+<p>                             ........................................                          </p>
+<p>                        ................................................                          </p>
+<p>                        ................................................                          </p>
+<p>                             ........................................                          </p>
+<p>                                     ......................                          </p>
+<p>                                                                                               </p>
+
+
 
 <ins>English version</ins>
 
