@@ -1,14 +1,13 @@
 👋 Bonjour ! Moi, c'est Anaïs ! 😊
 
-
-💼 En formation depuis octobre 2024 suite à une reconversion professionnelle pour devenir développeuse web
+💼 En formation depuis octobre 2024 pour devenir développeuse web & web mobile
 
 <br/>
 
 <ins>📚 Ici, je partage :</ins>
 
 🎓 Mes travaux pratiques réalisés en groupe durant ma formation
-<br/>💻 Mes projets personnels pour pratiquer et approfondir ce que j'apprends
+<br/>💻 Mes projets personnels pour pratiquer et approfondir mes connaissances
 
 <br/>
 
@@ -22,20 +21,20 @@
 
 <ins>🌟 Mes savoir-être :</ins>
 
-💡 Curieuse et rigoureuse dans mon travail
-<br/>🤝 Esprit d'équipe et bienveillance
+💡 Organisée, créative et rigoureuse dans mon travail
+<br/>🤝 Esprit d'équipe, autonomie et bienveillance
 <br/>🚀 Motivée pour relever de nouveaux défis
 
 <br/>
 
-🐾 Passionnée par les animaux, la photographie 📸 et les sujets de société 🌍 notamment le féminisme 💜🌈
-<br/>🌱 Curieuse et motivée pour continuer à apprendre chaque jour !
+🐾 Passionnée par les animaux, la photographie 📸 les sujets de société 🌱🌍 notamment le féminisme 💜🌈
+<br/>🌱 Curieuse et avec l'envie d'en apprendre chaque jour !
 
 <br/>
 
-<br/>🚀 Prête à coder, partager et évoluer dans ce super univers qu'est le développement web !
+<br/>🚀 Prête à coder, partager et évoluer dans cet univers passionnant qu'est le développement web !
 
-
+<br/>
 
 <p>                                                                                               </p>
 <p>                                     ......................                          </p>
@@ -46,42 +45,44 @@
 <p>                                     ......................                          </p>
 <p>                                                                                               </p>
 
-
-
+<br/>
 
 <ins>English version</ins>
 
-👋 Hi there! I'm Anaïs ! 😊
+<br/>
 
-💼 Currently transitioning to become a web developer
+👋 Hello! I'm Anaïs! 😊
 
+💼 Currently training since October 2024 to become a Web & Mobile Developer
+
+<br/>
 
 <ins>📚 Here, I share:</ins>
 
-🎓 Group projects and practical assignments from my training
-💻 Personal projects to practice and deepen what I learn
+🎓 My group projects and assignments from my training
+<br/>💻 My personal projects to practice and deepen my knowledge
 
-
+<br/>
 
 <ins>✨ My skills:</ins>
 
 🌐 Development with HTML/CSS and JavaScript
-🔧 Responsive integration and adapted design
-🛠️ Collaboration on team projects (Git, GitHub)
+<br/>🔧 Responsive integration and adapted design
+<br/>🛠️ Team collaboration on projects (Git, GitHub)
 
-
+<br/>
 
 <ins>🌟 My strengths:</ins>
 
-💡 Curious and detail-oriented in my work
-🤝 Team spirit and kindness
-🚀 Motivated to take on new challenges
+💡 Organized, creative, and detail-oriented in my work
+<br/>🤝 Team spirit, autonomy, and kindness
+<br/>🚀 Motivated to take on new challenges
 
+<br/>
 
+🐾 Passionate about animals, photography 📸, and social issues 🌱🌍, particularly feminism 💜🌈
+<br/>🌱 Curious and eager to learn something new every day!
 
-🐾 Passionate about animals, photography 📸, and social issues 🌍, particularly feminism 💜🌈
-🌱 Eager and motivated to keep learning every day !
+<br/>
 
-
-
-🚀 Ready to code, share, and grow in this amazing world of web development !
+🚀 Ready to code, share, and grow in this exciting world of web development!
