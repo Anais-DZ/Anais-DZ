@@ -1,38 +1,40 @@
-👋 Bonjour ! Moi, c'est Anaïs ! 😊
+👋 Bonjour ! Moi, c'est **Anaïs** ! 😊
 
-💼 En formation depuis octobre 2024 pour devenir développeuse web & web mobile
+💼 En formation depuis octobre 2024 pour devenir **développeuse web & web mobile**
 
 <br/>
 
-<ins>📚 Ici, je partage :</ins>
+<ins>📚 **Ici, je partage :** </ins>
 
 🎓 Mes travaux pratiques réalisés en groupe durant ma formation
-<br/>💻 Mes projets personnels pour pratiquer et approfondir mes connaissances
+<br/>💻 **Mes projets personnels** pour pratiquer et approfondir mes connaissances
 
 <br/>
 
-<ins>✨ Mes savoir-faire :</ins>
+<ins>✨ **Mes savoir-faire :** </ins>
 
-🌐 Développement HTML/CSS et JavaScript
+🌐 Figma, VS Code, **HTML/CSS** et **JavaScript** (et **bien d'autres à venir !** 😁)
 <br/>🔧 Intégration responsive et design adapté
-<br/>🛠️ Collaboration sur des projets en équipe (Git, GitHub)
+<br/>🛠️ **Maquetter des interfaces** utilisateur web & web mobile
+<br/>🔧 **Collaboration** sur des projets en équipe **(Git, GitHub)**
+<br/>🛠️ Mettre en place une **base de données relationnelle**
 
 <br/>
 
-<ins>🌟 Mes savoir-être :</ins>
+<ins>🌟 **Mes savoir-être :** </ins>
 
-💡 Organisée, créative et rigoureuse dans mon travail
-<br/>🤝 Esprit d'équipe, autonomie et bienveillance
-<br/>🚀 Motivée pour relever de nouveaux défis
+💡 **Organisée**, créative et rigoureuse dans mon travail
+<br/>🤝 Esprit d'équipe, **autonomie** et bienveillance
+<br/>🚀 **Motivée** pour relever de nouveaux défis
 
 <br/>
 
 🐾 Passionnée par les animaux, la photographie 📸 les sujets de société 🌱🌍 notamment le féminisme 💜🌈
-<br/>🌱 Curieuse et avec l'envie d'en apprendre chaque jour !
+<br/>🌱 **Curieuse** et avec l'envie d'en **apprendre chaque jour** !
 
 <br/>
 
-<br/>🚀 Prête à coder, partager et évoluer dans cet univers passionnant qu'est le développement web !
+<br/>🚀 Prête à coder, partager et **évoluer dans cet univers passionnant** qu'est le développement web !
 
 <br/>
 
@@ -66,9 +68,11 @@
 
 <ins>✨ My skills:</ins>
 
-🌐 Development with HTML/CSS and JavaScript
+🌐 Figma, VS Code, HTML/CSS, and JavaScript (with many more to come! 😁)
 <br/>🔧 Responsive integration and adapted design
-<br/>🛠️ Team collaboration on projects (Git, GitHub)
+<br/>🛠️ Prototyping user interfaces for web & mobile applications
+<br/>🔧 Collaboration on team projects (Git, GitHub)
+<br/>🛠️ Setting up a relational database
 
 <br/>
 
