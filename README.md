@@ -53,20 +53,20 @@
 
 <br/>
 
-👋 Hello! I'm Anaïs! 😊
+👋 Hello! **I'm Anaïs!** 😊
 
-💼 Currently training since October 2024 to become a Web & Mobile Developer
+💼 Currently training since October 2024 to become a **Web & Mobile Developer**
 
 <br/>
 
-<ins>📚 Here, I share:</ins>
+📚 <ins>**Here, I share:** </ins>
 
 🎓 My group projects and assignments from my training
 <br/>💻 My personal projects to practice and deepen my knowledge
 
 <br/>
 
-<ins>✨ My skills:</ins>
+✨ <ins>**My skills:** </ins>
 
 🌐 Figma, VS Code, HTML/CSS, and JavaScript (with many more to come! 😁)
 <br/>🔧 Responsive integration and adapted design
@@ -76,7 +76,7 @@
 
 <br/>
 
-<ins>🌟 My strengths:</ins>
+🌟<ins>**My strengths:** </ins>
 
 💡 Organized, creative, and detail-oriented in my work
 <br/>🤝 Team spirit, autonomy, and kindness
