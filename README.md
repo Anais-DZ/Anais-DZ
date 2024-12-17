@@ -1,39 +1,39 @@
-👋 Salut ! Moi, c'est Anaïs ! 😊
+👋 Bonjour ! Moi, c'est Anaïs ! 😊
 
 
-💼 En reconversion professionnelle depuis octobre 2024 pour devenir développeuse web
-
-
-
-📚 Ici, je partage :
-
-🎓 Mes travaux pratiques réalisés en groupe durant ma formation
-💻 Mes projets personnels pour pratiquer et approfondir ce que j'apprends
+💼 En formation depuis octobre 2024 suite à une reconversion professionnelle pour devenir développeuse web
 
 
 
-✨ Mes savoir-faire :
+<ins>📚 Ici, je partage :</ins>
 
-🌐 Développement HTML/CSS et JavaScript
-🔧 Intégration responsive et design adapté
-🛠️ Collaboration sur des projets en équipe (Git, GitHub)
-
-
-
-🌟 Mes savoir-être :
-
-💡 Curieuse et rigoureuse dans mon travail
-🤝 Esprit d'équipe et bienveillance
-🚀 Motivée pour relever de nouveaux défis
+<br/>🎓 Mes travaux pratiques réalisés en groupe durant ma formation
+<br/>💻 Mes projets personnels pour pratiquer et approfondir ce que j'apprends
 
 
 
-🐾 Passionnée par les animaux, la photographie 📸 et les sujets de société 🌍 notamment le féminisme 💜🌈
-🌱 Curieuse et motivée pour continuer à apprendre chaque jour !
+<ins>✨ Mes savoir-faire :</ins>
+
+<br/>🌐 Développement HTML/CSS et JavaScript
+<br/>🔧 Intégration responsive et design adapté
+<br/>🛠️ Collaboration sur des projets en équipe (Git, GitHub)
 
 
 
-🚀 Prête à coder, partager et évoluer dans ce super univers qu'est le développement web !
+<ins>🌟 Mes savoir-être :</ins>
+
+<br/>💡 Curieuse et rigoureuse dans mon travail
+<br/>🤝 Esprit d'équipe et bienveillance
+<br/>🚀 Motivée pour relever de nouveaux défis
+
+
+
+<br/>🐾 Passionnée par les animaux, la photographie 📸 et les sujets de société 🌍 notamment le féminisme 💜🌈
+<br/>🌱 Curieuse et motivée pour continuer à apprendre chaque jour !
+
+
+
+<br/>🚀 Prête à coder, partager et évoluer dans ce super univers qu'est le développement web !
 
 
 
@@ -56,14 +56,14 @@
 💼 Currently transitioning to become a web developer
 
 
-📚 Here, I share:
+<ins>📚 Here, I share:</ins>
 
 🎓 Group projects and practical assignments from my training
 💻 Personal projects to practice and deepen what I learn
 
 
 
-✨ My skills:
+<ins>✨ My skills:</ins>
 
 🌐 Development with HTML/CSS and JavaScript
 🔧 Responsive integration and adapted design
@@ -71,7 +71,7 @@
 
 
 
-🌟 My strengths:
+<ins>🌟 My strengths:</ins>
 
 💡 Curious and detail-oriented in my work
 🤝 Team spirit and kindness
