@@ -4,14 +4,14 @@
 
 <br/>
 
-<ins>📚 **Ici, je partage :** </ins>
+📚 <ins> **Ici, je partage :** </ins>
 
 🎓 Mes travaux pratiques réalisés en groupe durant ma formation
 <br/>💻 **Mes projets personnels** pour pratiquer et approfondir mes connaissances
 
 <br/>
 
-<ins>✨ **Mes savoir-faire :** </ins>
+✨ <ins> **Mes savoir-faire :** </ins>
 
 🌐 Figma, VS Code, **HTML/CSS** et **JavaScript** (et **bien d'autres à venir !** 😁)
 <br/>🔧 Intégration **responsive** et design adapté
@@ -21,7 +21,7 @@
 
 <br/>
 
-<ins>🌟 **Mes savoir-être :** </ins>
+🌟 <ins>**Mes savoir-être :** </ins>
 
 💡 **Organisée**, créative et rigoureuse dans mon travail
 <br/>🤝 Esprit d'équipe, **autonomie** et bienveillance
