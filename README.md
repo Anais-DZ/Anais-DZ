@@ -1,7 +1,7 @@
 👋 Salut ! Moi, c'est Anaïs ! 😊
 
 
-💼 En reconversion professionnelle pour devenir développeuse web
+💼 En reconversion professionnelle depuis octobre 2024 pour devenir développeuse web
 
 
 
