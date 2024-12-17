@@ -3,35 +3,35 @@
 
 💼 En formation depuis octobre 2024 suite à une reconversion professionnelle pour devenir développeuse web
 
-
+<br/>
 
 <ins>📚 Ici, je partage :</ins>
 
-<br/>🎓 Mes travaux pratiques réalisés en groupe durant ma formation
+🎓 Mes travaux pratiques réalisés en groupe durant ma formation
 <br/>💻 Mes projets personnels pour pratiquer et approfondir ce que j'apprends
 
-
+<br/>
 
 <ins>✨ Mes savoir-faire :</ins>
 
-<br/>🌐 Développement HTML/CSS et JavaScript
+🌐 Développement HTML/CSS et JavaScript
 <br/>🔧 Intégration responsive et design adapté
 <br/>🛠️ Collaboration sur des projets en équipe (Git, GitHub)
 
-
+<br/>
 
 <ins>🌟 Mes savoir-être :</ins>
 
-<br/>💡 Curieuse et rigoureuse dans mon travail
+💡 Curieuse et rigoureuse dans mon travail
 <br/>🤝 Esprit d'équipe et bienveillance
 <br/>🚀 Motivée pour relever de nouveaux défis
 
+<br/>
 
-
-<br/>🐾 Passionnée par les animaux, la photographie 📸 et les sujets de société 🌍 notamment le féminisme 💜🌈
+🐾 Passionnée par les animaux, la photographie 📸 et les sujets de société 🌍 notamment le féminisme 💜🌈
 <br/>🌱 Curieuse et motivée pour continuer à apprendre chaque jour !
 
-
+<br/>
 
 <br/>🚀 Prête à coder, partager et évoluer dans ce super univers qu'est le développement web !
 
