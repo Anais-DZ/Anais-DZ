@@ -34,6 +34,8 @@
 
 <br/>
 
+💼 Si mon profil et mon travail vous intéressent, je suis aussi à la **recherche un stage de Développeuse Web/Web mobile du 24 mars 2025 au 16 mai 2025**, qui me permettra d'appliquer ces compétences dans un milieu professionnel et de continuer d'acquérir de nouvelles connaissances. 
+
 <br/>🚀 Prête à coder, partager et **évoluer dans cet univers passionnant** qu'est le développement web ! 💻
 
 <br/>
@@ -89,4 +91,6 @@
 
 <br/>
 
-🚀 Ready to code, share, and grow in this exciting world of web development ! 💻
+💼 If my profile and work interest you, **I am currently looking for a Web/Mobile Developer internship from March 24, 2025, to May 16, 2025**, which will allow me to apply these skills in a professional environment and continue acquiring new knowledge.
+
+<br/>🚀 Ready to code, share, and grow in this exciting world of web development ! 💻
