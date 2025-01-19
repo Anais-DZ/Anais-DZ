@@ -1,12 +1,15 @@
-👋 Bonjour ! Moi, c'est **Anaïs** ! 😊
+👋 Bonjour ! Je suis **Anaïs** ! 😊
 
 💼 En formation depuis octobre 2024 pour devenir **développeuse web & web mobile**
+<br/>
+
+💼 Si mon profil et mon travail vous intéressent, je suis aussi à la **recherche un stage non rémunéré de Développeuse Web/Web mobile du 24 mars 2025 au 16 mai 2025**, qui me permettra d'appliquer ces compétences dans un milieu professionnel et de continuer d'acquérir de nouvelles connaissances. 
 
 <br/>
 
 📚 <ins> **Ici, je partage :** </ins>
 
-🎓 Mes travaux pratiques réalisés en groupe durant ma formation
+🎓 Mes travaux pratiques réalisés seule ou en groupe durant ma formation
 <br/>💻 **Mes projets personnels** pour pratiquer et approfondir mes connaissances
 
 <br/>
@@ -31,10 +34,6 @@
 
 🐾 Passionnée par les animaux 🐱🐶, la photographie 📸 les sujets de société 🌱🌍 notamment le féminisme 💜🌈
 <br/>🌱 **Curieuse** et avec l'envie d'en **apprendre plus chaque jour** ! 🌞
-
-<br/>
-
-💼 Si mon profil et mon travail vous intéressent, je suis aussi à la **recherche un stage de Développeuse Web/Web mobile du 24 mars 2025 au 16 mai 2025**, qui me permettra d'appliquer ces compétences dans un milieu professionnel et de continuer d'acquérir de nouvelles connaissances. 
 
 <br/>🚀 Prête à coder, partager et **évoluer dans cet univers passionnant** qu'est le développement web ! 💻
 
