@@ -3,7 +3,7 @@
 💼 En formation depuis octobre 2024 pour devenir **développeuse web & web mobile**
 <br/>
 
-💼 Si mon profil et mon travail vous intéressent, je suis aussi à la **recherche un stage non rémunéré de Développeuse Web/Web mobile du 24 mars 2025 au 16 mai 2025**, qui me permettra d'appliquer ces compétences dans un milieu professionnel et de continuer d'acquérir de nouvelles connaissances. 
+Si mon profil et mon travail vous intéressent, je suis aussi à la **recherche un stage non rémunéré de Développeuse Web/Web mobile du 24 mars 2025 au 16 mai 2025**, qui me permettra d'appliquer ces compétences dans un milieu professionnel et de continuer d'acquérir de nouvelles connaissances. 
 
 <br/>
 
