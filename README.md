@@ -36,6 +36,8 @@ Si mon profil et mon travail vous intéressent, je suis aussi à la **recherche 
 <br/>🌱 **Curieuse** et avec l'envie d'en **apprendre plus chaque jour** ! 🌞
 
 <br/>🚀 Prête à coder, partager et **évoluer dans cet univers passionnant** qu'est le développement web ! 💻
+### :trophy: GitHub Trophies
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=anais-dz&theme=onedark)
 
 <br/>
 
@@ -86,6 +88,7 @@ Si mon profil et mon travail vous intéressent, je suis aussi à la **recherche 
 <br/>
 
 🐾 Passionate about animals 🐱🐶, photography 📸, and social issues 🌱🌍, particularly feminism 💜🌈
+
 <br/>🌱 Curious and eager to learn something new every day ! 🌞
 
 <br/>
@@ -93,3 +96,6 @@ Si mon profil et mon travail vous intéressent, je suis aussi à la **recherche 
 💼 If my profile and work interest you, **I am currently looking for a Web/Mobile Developer internship from March 24, 2025, to May 16, 2025**, which will allow me to apply these skills in a professional environment and continue acquiring new knowledge.
 
 <br/>🚀 Ready to code, share, and grow in this exciting world of web development ! 💻
+
+### :trophy: GitHub Trophies
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=anais-dz&theme=onedark)
