@@ -38,6 +38,7 @@ Si mon profil et mon travail vous intéressent, je suis aussi à la **recherche 
 <br/>🚀 Prête à coder, partager et **évoluer dans cet univers passionnant** qu'est le développement web ! 💻
 ### :trophy: GitHub Trophies
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=anais-dz&theme=onedark)
+![Anaïs' GitHub stats](https://github-readme-stats.vercel.app/api?username=Anais-DZ&show_icons=true&theme=synthwave)
 
 <br/>
 
@@ -99,3 +100,4 @@ Si mon profil et mon travail vous intéressent, je suis aussi à la **recherche 
 
 ### :trophy: GitHub Trophies
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=anais-dz&theme=onedark)
+![Anaïs' GitHub stats](https://github-readme-stats.vercel.app/api?username=Anais-DZ&show_icons=true&theme=synthwave)
