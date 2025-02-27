@@ -1,27 +1,33 @@
 <h1 align="center">👋 Bonjour ! Je suis Anaïs ! 😊</h1>
 
 
-💼 Après 13 années en tant que factrice, j’ai décidé de **m’orienter vers le secteur du numérique**, un domaine qui m’intéresse profondément et attise ma curiosité. Depuis octobre 2024, je suis en formation en **développement web et web mobile** à l'ADRAR Digital Academy, où je développe mes compétences techniques tout en capitalisant sur mes années d'expérience professionnelle, pour obtenir un Titre Professionnel (niveau 5) de Développeuse Web et Web mobile et ainsi contribuer activement à ce secteur en pleine évolution.
+<h2>👩‍💻 À propos de moi </h2>
+💼 Après 12 années en tant que factrice, j’ai décidé de m’orienter vers le secteur du numérique, un domaine qui m’intéresse profondément et attise ma curiosité. Depuis octobre 2024, je suis en formation en développement web et web mobile à l'ADRAR Digital Academy, où je développe mes compétences techniques tout en capitalisant sur mes années d'expérience professionnelle, pour obtenir un Titre Professionnel (niveau 5) de Développeuse Web et Web mobile et ainsi contribuer activement à ce secteur en pleine évolution.
+
 <br/>
 
-Souhaitant poursuivre ma formation avec un Titre Professionnel niveau 6 de Conceptrice Développeuse d'Appli mobile, je suis également à la **recherche d'un stage en alternance de Conceptrice Développeuse Appli mobile d'une durée de 12 mois à partir de juillet ou septembre 2025**, qui me permettrait d'appliquer ces compétences dans un milieu professionnel et de continuer d'acquérir de nouvelles connaissances donc si mon profil et mon travail vous intéressent, n'hésitez pas à me contacter 😊. 
+<br/>👩‍💻 Souhaitant poursuivre ma formation avec un Titre Professionnel niveau 6 de Conceptrice Développeuse d'Appli mobile, je suis également à la recherche d'un stage en alternance de Conceptrice Développeuse Appli mobile d'une durée de 12 mois à partir de juillet ou septembre 2025, qui me permettrait d'appliquer ces compétences dans un milieu professionnel et de continuer d'acquérir de nouvelles connaissances donc si mon profil et mon travail vous intéressent, n'hésitez pas à me contacter 😊. 
 
 ---
 
-<h3>📚 Ici, je partage :</h3>
-
-🎓 Mes travaux pratiques réalisés seule ou en groupe durant ma formation
-<br/>💻 **Mes projets personnels** pour pratiquer et approfondir mes connaissances
+<h2>📚 Ici, je partage </h2>
+  <ul>
+    <li>🎓 Mes travaux pratiques réalisés seule ou en groupe durant ma formation</li>
+    <li>💻 Mes projets personnels pour pratiquer et approfondir mes connaissances</li>
+    <li>🔧 Des exercices développés en autodidacte</li>
+  </ul>
 
 ---
 
-<h3>✨ Mes savoir-faire :</h3>
+<h2>✨ Mes savoir-faire </h2>
 
-🌐 Figma, VS Code, **HTML/CSS**, **JavaScript**, **MySQL** et **PHP** (et **bien d'autres à venir !** 😁)
-<br/>🔧 Intégration **responsive** et design adapté
-<br/>🛠️ **Maquetter des interfaces** utilisateur web & web mobile
-<br/>🔧 **Collaboration** sur des projets en équipe **(Git, GitHub)**
-<br/>🛠️ Mettre en place une **base de données relationnelle**
+  <ul>
+    <li>🌐 Figma, VS Code, HTML/CSS, JavaScript, MySQL et PHP (et bien d'autres à venir ! 😁)</li>
+    <li>🔧 Intégration responsive et design adapté</li>
+    <li>🛠️ Maquetter des interfaces utilisateur web & web mobile</li>
+    <li>🔧 Collaboration sur des projets en équipe (Git, GitHub)</li>
+    <li>🛠️ Mettre en place une base de données relationnelle</li>
+  </ul>
 
 ### 🖥️ **Front-end**
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
@@ -36,12 +42,21 @@ Souhaitant poursuivre ma formation avec un Titre Professionnel niveau 6 de Conce
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white) ![Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?logo=adobephotoshop&logoColor=white) 
 
 ---
+<h2>🌎 Langues </h2>
+  <ul>
+    <li>Français (natif)</li>
+    <li>Anglais (intermédiaire)</li>
+  </ul>
 
-<h3>🌟 Mes savoir-être :</h3>
+---
 
-💡 **Organisée**, créative et rigoureuse dans mon travail
-<br/>🤝 Esprit d'équipe, **autonomie** et bienveillance
-<br/>🚀 **Motivée** pour relever de nouveaux défis
+<h2>🌟 Mes savoir-être </h2>
+
+  <ul>
+    <li>💡 Organisée, créative et rigoureuse dans mon travail</li>
+    <li>🤝 Esprit d'équipe, autonomie et bienveillance</li>
+    <li>🚀 Motivée pour relever de nouveaux défis</li>
+  </ul>
 
 ---
 
@@ -50,12 +65,23 @@ Souhaitant poursuivre ma formation avec un Titre Professionnel niveau 6 de Conce
 
 <br/>🚀 Prête à coder, partager et **évoluer dans cet univers passionnant** qu'est le développement web ! 💻
 
-<br/>
+---
+<h2  align="center">📫 Pour me contacter</h2>
+<p align="center">
+  <a target="_blank"href="https://www.linkedin.com/in/anaïs-diez/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:diez.anais@gmail.com?subject=Hello%20Ileri,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
+
+---
 
 ### :trophy: GitHub Stat & Trophées
 ![Anaïs' GitHub stats](https://github-readme-stats.vercel.app/api?username=Anais-DZ&show_icons=true&theme=synthwave)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anais-DZ&layout=compact&theme=synthwave)
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=anais-dz&theme=onedark)
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=Anais-DZ" alt="https://github.com/Anais-DZ" />
+</div>
 
 <br/>
 
@@ -78,7 +104,7 @@ Souhaitant poursuivre ma formation avec un Titre Professionnel niveau 6 de Conce
 
 💼 After 13 years as a mail carrier, I decided to transition into the digital sector, a field that deeply interests me and sparks my curiosity. Since October 2024, I have been training in web and mobile web development at ADRAR Digital Academy, where I am developing my technical skills while leveraging my years of professional experience to obtain a Level 5 Professional Certification as a Web and Mobile Web Developer and actively contribute to this rapidly evolving sector.
 <br/>
-Wishing to further my training with a Level 6 Professional Certification as a Mobile Application Designer & Developer, I am also looking for a 12-month work-study internship as a Mobile Application Designer & Developer, starting in July or September 2025. This opportunity would allow me to apply my skills in a professional setting and continue acquiring new knowledge. So, if my profile and work interest you, feel free to contact me! 😊
+👩‍💻 Wishing to further my training with a Level 6 Professional Certification as a Mobile Application Designer & Developer, I am also looking for a 12-month work-study internship as a Mobile Application Designer & Developer, starting in July or September 2025. This opportunity would allow me to apply my skills in a professional setting and continue acquiring new knowledge. So, if my profile and work interest you, feel free to contact me! 😊
 
 ---
 
@@ -124,7 +150,14 @@ Wishing to further my training with a Level 6 Professional Certification as a Mo
 
 <br/>🚀 Ready to code, share, and grow in this exciting world of web development ! 💻
 
-<br/>
+---
+<h2  align="center">📫 Contact me !</h2>
+<p align="center">
+  <a target="_blank"href="https://www.linkedin.com/in/anaïs-diez/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:diez.anais@gmail.com?subject=Hello%20Ileri,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
+
+---
 
 ### :trophy: GitHub Stat & Trophies
 ![Anaïs' GitHub stats](https://github-readme-stats.vercel.app/api?username=Anais-DZ&show_icons=true&theme=synthwave)
