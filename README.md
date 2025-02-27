@@ -36,9 +36,13 @@ Si mon profil et mon travail vous intéressent, je suis aussi à la **recherche 
 <br/>🌱 **Curieuse** et avec l'envie d'en **apprendre plus chaque jour** ! 🌞
 
 <br/>🚀 Prête à coder, partager et **évoluer dans cet univers passionnant** qu'est le développement web ! 💻
-### :trophy: GitHub Trophies
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=anais-dz&theme=onedark)
+
+<br/>
+
+### :trophy: GitHub Stat & Trophées
 ![Anaïs' GitHub stats](https://github-readme-stats.vercel.app/api?username=Anais-DZ&show_icons=true&theme=synthwave)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anais-DZ&layout=compact&theme=synthwave)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=anais-dz&theme=onedark)
 
 <br/>
 
@@ -98,6 +102,9 @@ Si mon profil et mon travail vous intéressent, je suis aussi à la **recherche 
 
 <br/>🚀 Ready to code, share, and grow in this exciting world of web development ! 💻
 
-### :trophy: GitHub Trophies
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=anais-dz&theme=onedark)
+<br/>
+
+### :trophy: GitHub Stat & Trophies
 ![Anaïs' GitHub stats](https://github-readme-stats.vercel.app/api?username=Anais-DZ&show_icons=true&theme=synthwave)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anais-DZ&layout=compact&theme=synthwave)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=anais-dz&theme=onedark)
