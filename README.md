@@ -16,7 +16,7 @@ Si mon profil et mon travail vous intéressent, je suis aussi à la **recherche 
 
 ✨ <ins> **Mes savoir-faire :** </ins>
 
-🌐 Figma, VS Code, **HTML/CSS** et **JavaScript** (et **bien d'autres à venir !** 😁)
+🌐 Figma, VS Code, **HTML/CSS**, **JavaScript**, **MySQL** et **PHP** (et **bien d'autres à venir !** 😁)
 <br/>🔧 Intégration **responsive** et design adapté
 <br/>🛠️ **Maquetter des interfaces** utilisateur web & web mobile
 <br/>🔧 **Collaboration** sur des projets en équipe **(Git, GitHub)**
