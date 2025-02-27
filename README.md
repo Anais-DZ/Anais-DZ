@@ -1,9 +1,9 @@
 👋 Bonjour ! Je suis **Anaïs** ! 😊
 
-💼 En formation depuis octobre 2024 pour devenir **développeuse web & web mobile**
+💼 En formation depuis octobre 2024 dans le **développement web & web mobile**
 <br/>
 
-Si mon profil et mon travail vous intéressent, je suis aussi à la **recherche un stage non rémunéré de Développeuse Web/Web mobile du 24 mars 2025 au 16 mai 2025**, qui me permettra d'appliquer ces compétences dans un milieu professionnel et de continuer d'acquérir de nouvelles connaissances. 
+Souhaitant poursuivre ma formation avec un Titre Professionnel niveau 6 de Conceptrice Développeuse d'Appli mobile, je suis également à la **recherche d'un stage en alternance de Conceptrice Développeuse Appli mobile d'une durée de 12 mois à partir de juillet ou septembre 2025**, qui me permettrait d'appliquer ces compétences dans un milieu professionnel et de continuer d'acquérir de nouvelles connaissances donc si mon profil et mon travail vous intéressent, n'hésitez pas à me contacter 😊. 
 
 <br/>
 
@@ -21,6 +21,18 @@ Si mon profil et mon travail vous intéressent, je suis aussi à la **recherche 
 <br/>🛠️ **Maquetter des interfaces** utilisateur web & web mobile
 <br/>🔧 **Collaboration** sur des projets en équipe **(Git, GitHub)**
 <br/>🛠️ Mettre en place une **base de données relationnelle**
+
+### 🖥️ **Front-end**
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white)  
+
+### 🖥 **Back-end**
+![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white) 
+
+### 🔧 **Collaboration**
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)  
+
+### 🎨 **Graphisme**
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white) ![Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?logo=adobephotoshop&logoColor=white) 
 
 <br/>
 
@@ -81,6 +93,18 @@ Si mon profil et mon travail vous intéressent, je suis aussi à la **recherche 
 <br/>🛠️ Prototyping user interfaces for web & mobile applications
 <br/>🔧 Collaboration on team projects (Git, GitHub)
 <br/>🛠️ Setting up a relational database
+
+### 🖥️ **Front-end**
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white)  
+
+### 🖥 **Back-end**
+![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white) 
+
+### 🔧 **Collaboration**
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)  
+
+### 🎨 **Graphisme**
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white) ![Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?logo=adobephotoshop&logoColor=white) 
 
 <br/>
 
