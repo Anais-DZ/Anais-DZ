@@ -1,6 +1,6 @@
 👋 Bonjour ! Je suis **Anaïs** ! 😊
 
-💼 En formation depuis octobre 2024 dans le **développement web & web mobile**
+💼 Après 13 années en tant que factrice, j’ai décidé de **m’orienter vers le secteur du numérique**, un domaine qui m’intéresse profondément et attise ma curiosité. Depuis octobre 2024, je suis en formation en **développement web et web mobile** à l'ADRAR Digital Academy, où je développe mes compétences techniques tout en capitalisant sur mes années d'expérience professionnelle, pour obtenir un Titre Professionnel (niveau 5) de Développeuse Web et Web mobile et ainsi contribuer activement à ce secteur en pleine évolution.
 <br/>
 
 Souhaitant poursuivre ma formation avec un Titre Professionnel niveau 6 de Conceptrice Développeuse d'Appli mobile, je suis également à la **recherche d'un stage en alternance de Conceptrice Développeuse Appli mobile d'une durée de 12 mois à partir de juillet ou septembre 2025**, qui me permettrait d'appliquer ces compétences dans un milieu professionnel et de continuer d'acquérir de nouvelles connaissances donc si mon profil et mon travail vous intéressent, n'hésitez pas à me contacter 😊. 
@@ -75,7 +75,9 @@ Souhaitant poursuivre ma formation avec un Titre Professionnel niveau 6 de Conce
 
 👋 Hello! **I'm Anaïs!** 😊
 
-💼 Currently training since October 2024 to become a **Web & Mobile Developer**
+💼 After 13 years as a mail carrier, I decided to transition into the digital sector, a field that deeply interests me and sparks my curiosity. Since October 2024, I have been training in web and mobile web development at ADRAR Digital Academy, where I am developing my technical skills while leveraging my years of professional experience to obtain a Level 5 Professional Certification as a Web and Mobile Web Developer and actively contribute to this rapidly evolving sector.
+<br/>
+Wishing to further my training with a Level 6 Professional Certification as a Mobile Application Designer & Developer, I am also looking for a 12-month work-study internship as a Mobile Application Designer & Developer, starting in July or September 2025. This opportunity would allow me to apply my skills in a professional setting and continue acquiring new knowledge. So, if my profile and work interest you, feel free to contact me! 😊
 
 ---
 
