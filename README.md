@@ -5,14 +5,14 @@
 
 Souhaitant poursuivre ma formation avec un Titre Professionnel niveau 6 de Conceptrice Développeuse d'Appli mobile, je suis également à la **recherche d'un stage en alternance de Conceptrice Développeuse Appli mobile d'une durée de 12 mois à partir de juillet ou septembre 2025**, qui me permettrait d'appliquer ces compétences dans un milieu professionnel et de continuer d'acquérir de nouvelles connaissances donc si mon profil et mon travail vous intéressent, n'hésitez pas à me contacter 😊. 
 
-<br/>
+---
 
 📚 <ins> **Ici, je partage :** </ins>
 
 🎓 Mes travaux pratiques réalisés seule ou en groupe durant ma formation
 <br/>💻 **Mes projets personnels** pour pratiquer et approfondir mes connaissances
 
-<br/>
+---
 
 ✨ <ins> **Mes savoir-faire :** </ins>
 
@@ -23,7 +23,7 @@ Souhaitant poursuivre ma formation avec un Titre Professionnel niveau 6 de Conce
 <br/>🛠️ Mettre en place une **base de données relationnelle**
 
 ### 🖥️ **Front-end**
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white)  
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
 
 ### 🖥 **Back-end**
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white) 
@@ -34,7 +34,7 @@ Souhaitant poursuivre ma formation avec un Titre Professionnel niveau 6 de Conce
 ### 🎨 **Graphisme**
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white) ![Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?logo=adobephotoshop&logoColor=white) 
 
-<br/>
+---
 
 🌟 <ins>**Mes savoir-être :** </ins>
 
@@ -42,7 +42,7 @@ Souhaitant poursuivre ma formation avec un Titre Professionnel niveau 6 de Conce
 <br/>🤝 Esprit d'équipe, **autonomie** et bienveillance
 <br/>🚀 **Motivée** pour relever de nouveaux défis
 
-<br/>
+---
 
 🐾 Passionnée par les animaux 🐱🐶, la photographie 📸 les sujets de société 🌱🌍 notamment le féminisme 💜🌈
 <br/>🌱 **Curieuse** et avec l'envie d'en **apprendre plus chaque jour** ! 🌞
@@ -77,14 +77,14 @@ Souhaitant poursuivre ma formation avec un Titre Professionnel niveau 6 de Conce
 
 💼 Currently training since October 2024 to become a **Web & Mobile Developer**
 
-<br/>
+---
 
 📚 <ins>**Here, I share:** </ins>
 
 🎓 My group projects and assignments from my training
 <br/>💻 My personal projects to practice and deepen my knowledge
 
-<br/>
+---
 
 ✨ <ins>**My skills:** </ins>
 
@@ -95,7 +95,7 @@ Souhaitant poursuivre ma formation avec un Titre Professionnel niveau 6 de Conce
 <br/>🛠️ Setting up a relational database
 
 ### 🖥️ **Front-end**
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white)  
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
 ### 🖥 **Back-end**
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white) 
@@ -106,7 +106,7 @@ Souhaitant poursuivre ma formation avec un Titre Professionnel niveau 6 de Conce
 ### 🎨 **Graphisme**
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white) ![Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?logo=adobephotoshop&logoColor=white) 
 
-<br/>
+---
 
 🌟<ins>**My strengths:** </ins>
 
@@ -114,15 +114,10 @@ Souhaitant poursuivre ma formation avec un Titre Professionnel niveau 6 de Conce
 <br/>🤝 Team spirit, autonomy, and kindness
 <br/>🚀 Motivated to take on new challenges
 
-<br/>
+---
 
 🐾 Passionate about animals 🐱🐶, photography 📸, and social issues 🌱🌍, particularly feminism 💜🌈
-
 <br/>🌱 Curious and eager to learn something new every day ! 🌞
-
-<br/>
-
-💼 If my profile and work interest you, **I am currently looking for a Web/Mobile Developer internship from March 24, 2025, to May 16, 2025**, which will allow me to apply these skills in a professional environment and continue acquiring new knowledge.
 
 <br/>🚀 Ready to code, share, and grow in this exciting world of web development ! 💻
 
