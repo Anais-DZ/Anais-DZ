@@ -1,4 +1,5 @@
-👋 Bonjour ! Je suis **Anaïs** ! 😊
+<h1 align="center">👋 Bonjour ! Je suis Anaïs ! 😊</h1>
+
 
 💼 Après 13 années en tant que factrice, j’ai décidé de **m’orienter vers le secteur du numérique**, un domaine qui m’intéresse profondément et attise ma curiosité. Depuis octobre 2024, je suis en formation en **développement web et web mobile** à l'ADRAR Digital Academy, où je développe mes compétences techniques tout en capitalisant sur mes années d'expérience professionnelle, pour obtenir un Titre Professionnel (niveau 5) de Développeuse Web et Web mobile et ainsi contribuer activement à ce secteur en pleine évolution.
 <br/>
@@ -7,14 +8,14 @@ Souhaitant poursuivre ma formation avec un Titre Professionnel niveau 6 de Conce
 
 ---
 
-📚 <ins> **Ici, je partage :** </ins>
+<h3>📚 Ici, je partage :</h3>
 
 🎓 Mes travaux pratiques réalisés seule ou en groupe durant ma formation
 <br/>💻 **Mes projets personnels** pour pratiquer et approfondir mes connaissances
 
 ---
 
-✨ <ins> **Mes savoir-faire :** </ins>
+<h3>✨ Mes savoir-faire :</h3>
 
 🌐 Figma, VS Code, **HTML/CSS**, **JavaScript**, **MySQL** et **PHP** (et **bien d'autres à venir !** 😁)
 <br/>🔧 Intégration **responsive** et design adapté
@@ -36,7 +37,7 @@ Souhaitant poursuivre ma formation avec un Titre Professionnel niveau 6 de Conce
 
 ---
 
-🌟 <ins>**Mes savoir-être :** </ins>
+<h3>🌟 Mes savoir-être :</h3>
 
 💡 **Organisée**, créative et rigoureuse dans mon travail
 <br/>🤝 Esprit d'équipe, **autonomie** et bienveillance
