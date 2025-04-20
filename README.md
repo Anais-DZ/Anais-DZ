@@ -6,7 +6,7 @@
 
 <br/>
 
-<br/>👩‍💻 Souhaitant poursuivre ma formation avec un Titre Professionnel niveau 6 de Conceptrice Développeuse d'Appli mobile, je suis également à la recherche d'un stage en alternance de Conceptrice Développeuse Appli mobile d'une durée de 12 mois à partir de juillet ou septembre 2025, qui me permettrait d'appliquer ces compétences dans un milieu professionnel et de continuer d'acquérir de nouvelles connaissances donc si mon profil et mon travail vous intéressent, n'hésitez pas à me contacter 😊. 
+<br/>👩‍💻 Souhaitant poursuivre ma formation avec un Titre Professionnel niveau 6 de Conceptrice Développeuse d'Appli mobile, je suis également à la recherche une alternance de Conceptrice Développeuse Appli mobile d'une durée de 12 mois à partir de septembre 2025, qui me permettrait d'appliquer ces compétences dans un milieu professionnel et de continuer d'acquérir de nouvelles connaissances donc si mon profil et mon travail vous intéressent, n'hésitez pas à me contacter 😊. 
 
 ---
 
