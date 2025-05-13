@@ -1,47 +1,63 @@
 <h1 align="center">👋 Bonjour ! Je suis Anaïs ! 😊</h1>
 
+<br>
 
 <h2>👩‍💻 À propos de moi </h2>
-💼 Après 12 années en tant que factrice, j’ai décidé de m’orienter vers le secteur du numérique, un domaine qui m’intéresse profondément et attise ma curiosité. Depuis octobre 2024, je suis en formation en développement web et web mobile à l'ADRAR Digital Academy, où je développe mes compétences techniques tout en capitalisant sur mes années d'expérience professionnelle, pour obtenir un Titre Professionnel (niveau 5) de Développeuse Web et Web mobile et ainsi contribuer activement à ce secteur en pleine évolution.
-
-<br/>
-
-<br/>👩‍💻 Souhaitant poursuivre ma formation avec un Titre Professionnel niveau 6 de Conceptrice Développeuse d'Appli mobile, je suis également à la recherche une alternance de Conceptrice Développeuse Appli mobile d'une durée de 12 mois à partir de septembre 2025, qui me permettrait d'appliquer ces compétences dans un milieu professionnel et de continuer d'acquérir de nouvelles connaissances donc si mon profil et mon travail vous intéressent, n'hésitez pas à me contacter 😊. 
+<p>📮 Avant de plonger dans les lignes de code, j’ai passé plus de 13 ans à sillonner les routes de campagne en tant que factrice.<br>
+Un métier qui m’a appris bien plus que trier le courrier : <strong>rigueur</strong>, <strong>autonomie</strong>, <strong>sens de l’organisation</strong> et <strong>travail en équipe</strong> — des compétences toujours bien utiles dans le développement web.</p>
+<br>
+<p>👩‍💻 Aujourd’hui, je termine une formation en <strong>Développement Web et Web mobile</strong> (titre pro niveau <strong>Bac+2</strong>). J’y ai acquis des compétences solides en <strong>front-end</strong> et <strong>back-end</strong>, de <strong>JavaScript</strong> à <strong>PHP</strong>, en passant par l’<strong>intégration d’API REST</strong>.<br>
+Au-delà des langages, j’ai appris à <strong>concevoir des interfaces dynamiques</strong>, <strong>rechercher et corriger des bugs</strong>, <strong>optimiser l’expérience utilisateur</strong> et <strong>m’adapter à des outils variés</strong> comme <strong>GitHub</strong> ou <strong>Figma</strong>.</p>
+<br>
+<p>🌱 En parallèle, je me forme en autodidacte à des frameworks tels que <strong>React</strong>, <strong>Tailwind CSS</strong> et <strong>WordPress.</strong>
+<br>
+<p>🎯 Mon objectif pour la rentrée 2025 : intégrer une <strong>alternance de 18 mois</strong> en <strong>Conception et Développement d’Applications (niveau 6 – Bac+3/4)</strong>, avec une spécialisation en éco-conception.<br> En effet, je suis soucieuse de l'empreinte carbone générée par les sites que je développe et je désire approfondir mes compétences dans ce domaine pour trouver des solutions plus responsables et durables.<br>
+Je recherche une entreprise située en <strong>région toulousaine</strong>, où je pourrais continuer à apprendre aux côtés de développeurs expérimentés et contribuer activement à des projets concrets.</p>
 
 ---
 
-<h2>📚 Ici, je partage </h2>
+<br>
+
+<h2>💡 Ce que vous trouverez ici : </h2>
   <ul>
     <li>🎓 Mes travaux pratiques réalisés seule ou en groupe durant ma formation</li>
     <li>💻 Mes projets personnels pour pratiquer et approfondir mes connaissances</li>
     <li>🔧 Des exercices développés en autodidacte</li>
   </ul>
+  
 
 ---
+<br>
 
-<h2>✨ Mes savoir-faire </h2>
+<h2>🧠 Mes savoir-faire et compétences techniques :</h2>
 
   <ul>
-    <li>🌐 Figma, VS Code, HTML/CSS, JavaScript, MySQL et PHP (et bien d'autres à venir ! 😁)</li>
-    <li>🔧 Intégration responsive et design adapté</li>
-    <li>🛠️ Maquetter des interfaces utilisateur web & web mobile</li>
-    <li>🔧 Collaboration sur des projets en équipe (Git, GitHub)</li>
-    <li>🛠️ Mettre en place une base de données relationnelle</li>
-  </ul>
+  <li>🌐 HTML / CSS / JavaScript / React / PHP / MySQL</li>
+  <li>⚙️ Intégration responsive & accessibilité</li>
+  <li>🔄 Consommation d’API REST</li>
+  <li>🖼️ Maquettage et prototypage (Figma)</li>
+  <li>🛠️ Conception de base de données relationnelle</li>
+  <li>👥 Travail collaboratif (Git / GitHub)</li>
+</ul>
+<br>
 
 ### 🖥️ **Front-end**
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white) ![React](https://img.shields.io/badge/React-%2361DAFB?style=for-the-badge&logo=react&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-%23646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  ![React](https://img.shields.io/badge/React-%2361DAFB?style=for-the-badge&logo=react&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
+<br>
 
 ### 🖥 **Back-end**
-![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white) 
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
+<br>
 
 ### 🔧 **Collaboration**
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)  
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
 
 ### 🎨 **Graphisme**
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white) ![Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?logo=adobephotoshop&logoColor=white) 
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) 
 
 ---
+<br>
+
 <h2>🌎 Langues </h2>
   <ul>
     <li>Français (natif)</li>
@@ -49,8 +65,9 @@
   </ul>
 
 ---
+<br>
 
-<h2>🌟 Mes savoir-être </h2>
+<h2>✨ Mes savoir-être </h2>
 
   <ul>
     <li>💡 Organisée, créative et rigoureuse dans mon travail</li>
@@ -59,6 +76,7 @@
   </ul>
 
 ---
+<br>
 
 🐾 Passionnée par les animaux 🐱🐶, la photographie 📸 les sujets de société 🌱🌍 notamment le féminisme 💜🌈
 <br/>🌱 **Curieuse** et avec l'envie d'en **apprendre plus chaque jour** ! 🌞
@@ -66,6 +84,7 @@
 <br/>🚀 Prête à coder, partager et **évoluer dans cet univers passionnant** qu'est le développement web ! 💻
 
 ---
+<br>
 <h2  align="center">📫 Pour me contacter</h2>
 <p align="center">
   <a target="_blank"href="https://www.linkedin.com/in/anaïs-diez/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
@@ -73,6 +92,7 @@
 </p>
 
 ---
+<br>
 
 ### :trophy: GitHub Stat & Trophées
 ![Anaïs' GitHub stats](https://github-readme-stats.vercel.app/api?username=Anais-DZ&show_icons=true&theme=synthwave)
@@ -100,44 +120,58 @@
 
 <br/>
 
-👋 Hello! **I'm Anaïs!** 😊
-
-💼 After 13 years as a mail carrier, I decided to transition into the digital sector, a field that deeply interests me and sparks my curiosity. Since October 2024, I have been training in web and mobile web development at ADRAR Digital Academy, where I am developing my technical skills while leveraging my years of professional experience to obtain a Level 5 Professional Certification as a Web and Mobile Web Developer and actively contribute to this rapidly evolving sector.
-<br/>
-👩‍💻 Wishing to further my training with a Level 6 Professional Certification as a Mobile Application Designer & Developer, I am also looking for a 12-month work-study internship as a Mobile Application Designer & Developer, starting in July or September 2025. This opportunity would allow me to apply my skills in a professional setting and continue acquiring new knowledge. So, if my profile and work interest you, feel free to contact me! 😊
+<h2>👩‍💻 About Me</h2>
+<p>📮 Before diving into lines of code, I spent over 13 years riding through the countryside as a postal worker.<br>
+A job that taught me much more than sorting mail: <strong>rigor</strong>, <strong>autonomy</strong>, <strong>organizational skills</strong>, and <strong>teamwork</strong> — all of which are incredibly useful in web development.</p>
+<br>
+<p>👩‍💻 I’m currently completing a training program in <strong>Web and Mobile Web Development</strong> (equivalent to a <strong>Bac+2</strong> / associate degree). I’ve acquired solid skills in both <strong>front-end</strong> and <strong>back-end</strong> development, from <strong>JavaScript</strong> to <strong>PHP</strong>, including <strong>REST API integration</strong>.<br>
+Beyond languages, I’ve learned to <strong>design dynamic interfaces</strong>, <strong>identify and fix bugs</strong>, <strong>optimize user experience</strong>, and <strong>adapt to various tools</strong> like <strong>GitHub</strong> and <strong>Figma</strong>.</p>
+<br>
+<p>🌱 On the side, I’ve been teaching myself tools and frameworks like <strong>React</strong>, <strong>Tailwind CSS</strong>, and <strong>WordPress</strong>.</p>
+<br>
+<p>🎯 My goal for the 2025 academic year: to begin an <strong>18-month apprenticeship</strong> in <strong>Application Design and Development (Bac+3/4 level)</strong>, with a focus on eco-design.<br>
+I’m especially mindful of the carbon footprint of the websites I build, and I’m eager to develop my skills in this area to create more <strong>responsible</strong> and <strong>sustainable solutions</strong>.<br>
+I’m looking for a company in the <strong>Toulouse area</strong> where I can continue learning from experienced developers and contribute to real-world projects.</p>
 
 ---
 
-📚 <ins>**Here, I share:** </ins>
-
-🎓 My group projects and assignments from my training
-<br/>💻 My personal projects to practice and deepen my knowledge
+<h2>💡 What you'll find here:</h2>
+  <ul>
+    <li>🎓 My training projects, completed alone or in a group</li>
+    <li>💻 Personal projects to practice and deepen my skills</li>
+    <li>🔧 Exercises developed through self-study</li>
+  </ul>
 
 ---
 
-✨ <ins>**My skills:** </ins>
+<h2>🧠 My skills and technical knowledge:</h2>
 
-🌐 Figma, VS Code, HTML/CSS, and JavaScript (with many more to come! 😁)
-<br/>🔧 Responsive integration and adapted design
-<br/>🛠️ Prototyping user interfaces for web & mobile applications
-<br/>🔧 Collaboration on team projects (Git, GitHub)
-<br/>🛠️ Setting up a relational database
+  <ul>
+    <li>🌐 HTML / CSS / JavaScript / React / PHP / MySQL</li>
+    <li>⚙️ Responsive design & accessibility</li>
+    <li>🔄 REST API integration</li>
+    <li>🖼️ UI design and prototyping (Figma)</li>
+    <li>🛠️ Relational database design</li>
+    <li>👥 Collaborative work (Git / GitHub)</li>
+  </ul>
+
 
 ### 🖥️ **Front-end**
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white) ![React](https://img.shields.io/badge/React-%2361DAFB?style=for-the-badge&logo=react&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-%23646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  ![React](https://img.shields.io/badge/React-%2361DAFB?style=for-the-badge&logo=react&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
+<br>
 
 ### 🖥 **Back-end**
-![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white) 
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
+<br>
 
 ### 🔧 **Collaboration**
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)  
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
 
-### 🎨 **Graphisme**
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white) ![Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?logo=adobephotoshop&logoColor=white) 
-
+### 🎨 **Graphic design**
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 ---
 
-🌟<ins>**My strengths:** </ins>
+✨<ins>**My strengths:** </ins>
 
 💡 Organized, creative, and detail-oriented in my work
 <br/>🤝 Team spirit, autonomy, and kindness
