@@ -1,12 +1,12 @@
-<h1 align="center">👋 Bonjour ! Je suis Anaïs ! 😊</h1>
+<h1 align="center">👋 Bonjour ! Je suis Anaïs ! 👩‍💻</h1>
 
 <br>
 
-<h2>👩‍💻 À propos de moi </h2>
+<h2>😊 À propos de moi </h2>
 <p>📮 Avant de plonger dans les lignes de code, j’ai passé plus de 13 ans à sillonner les routes de campagne en tant que factrice.<br>
 Un métier qui m’a appris bien plus que trier le courrier : <strong>rigueur</strong>, <strong>autonomie</strong>, <strong>sens de l’organisation</strong> et <strong>travail en équipe</strong> — des compétences toujours bien utiles dans le développement web.</p>
 <br>
-<p>👩‍💻 Aujourd’hui, je termine une formation en <strong>Développement Web et Web mobile</strong> (titre pro niveau <strong>Bac+2</strong>). J’y ai acquis des compétences solides en <strong>front-end</strong> et <strong>back-end</strong>, de <strong>JavaScript</strong> à <strong>PHP</strong>, en passant par l’<strong>intégration d’API REST</strong>.<br>
+<p>🎓 Aujourd’hui, je termine une formation en <strong>Développement Web et Web mobile</strong> (titre pro niveau <strong>Bac+2</strong>). J’y ai acquis des compétences solides en <strong>front-end</strong> et <strong>back-end</strong>, de <strong>JavaScript</strong> à <strong>PHP</strong>, en passant par l’<strong>intégration d’API REST</strong>.<br>
 Au-delà des langages, j’ai appris à <strong>concevoir des interfaces dynamiques</strong>, <strong>rechercher et corriger des bugs</strong>, <strong>optimiser l’expérience utilisateur</strong> et <strong>m’adapter à des outils variés</strong> comme <strong>GitHub</strong> ou <strong>Figma</strong>.</p>
 <br>
 <p>🌱 En parallèle, je me forme en autodidacte à des frameworks tels que <strong>React</strong>, <strong>Tailwind CSS</strong> et <strong>WordPress.</strong>
@@ -120,11 +120,15 @@ Je recherche une entreprise située en <strong>région toulousaine</strong>, où
 
 <br/>
 
-<h2>👩‍💻 About Me</h2>
+<h1 align="center">👋 Hi ! I'm Anaïs ! 👩‍💻</h1>
+
+<br>
+
+<h2>😊 About Me</h2>
 <p>📮 Before diving into lines of code, I spent over 13 years riding through the countryside as a postal worker.<br>
 A job that taught me much more than sorting mail: <strong>rigor</strong>, <strong>autonomy</strong>, <strong>organizational skills</strong>, and <strong>teamwork</strong> — all of which are incredibly useful in web development.</p>
 <br>
-<p>👩‍💻 I’m currently completing a training program in <strong>Web and Mobile Web Development</strong> (equivalent to a <strong>Bac+2</strong> / associate degree). I’ve acquired solid skills in both <strong>front-end</strong> and <strong>back-end</strong> development, from <strong>JavaScript</strong> to <strong>PHP</strong>, including <strong>REST API integration</strong>.<br>
+<p>🎓 I’m currently completing a training program in <strong>Web and Mobile Web Development</strong> (equivalent to a <strong>Bac+2</strong> / associate degree). I’ve acquired solid skills in both <strong>front-end</strong> and <strong>back-end</strong> development, from <strong>JavaScript</strong> to <strong>PHP</strong>, including <strong>REST API integration</strong>.<br>
 Beyond languages, I’ve learned to <strong>design dynamic interfaces</strong>, <strong>identify and fix bugs</strong>, <strong>optimize user experience</strong>, and <strong>adapt to various tools</strong> like <strong>GitHub</strong> and <strong>Figma</strong>.</p>
 <br>
 <p>🌱 On the side, I’ve been teaching myself tools and frameworks like <strong>React</strong>, <strong>Tailwind CSS</strong>, and <strong>WordPress</strong>.</p>
