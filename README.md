@@ -12,7 +12,7 @@ Au-delà des langages, j’ai appris à <strong>concevoir des interfaces dynamiq
 <p>🌱 En parallèle, je me forme en autodidacte à des frameworks tels que <strong>React</strong>, <strong>Tailwind CSS</strong> et <strong>WordPress.</strong>
 <br>
 <p>🎯 Mon objectif pour la rentrée 2025 : intégrer une <strong>alternance de 18 mois</strong> en <strong>Conception et Développement d’Applications (niveau 6 – Bac+3/4)</strong>, avec une spécialisation en éco-conception.<br> En effet, je suis soucieuse de l'empreinte carbone générée par les sites que je développe et je désire approfondir mes compétences dans ce domaine pour trouver des solutions plus responsables et durables.<br>
-Je recherche une entreprise située en <strong>région toulousaine</strong>, où je pourrais continuer à apprendre aux côtés de développeurs expérimentés et contribuer activement à des projets concrets.</p>
+Je recherche une entreprise située en <strong>région toulousaine</strong>, où je pourrais continuer à apprendre aux côtés de développeurs expérimentés et contribuer activement à leurs projets.</p>
 
 ---
 
@@ -131,7 +131,7 @@ Beyond languages, I’ve learned to <strong>design dynamic interfaces</strong>, 
 <br>
 <p>🎯 My goal for the 2025 academic year: to begin an <strong>18-month apprenticeship</strong> in <strong>Application Design and Development (Bac+3/4 level)</strong>, with a focus on eco-design.<br>
 I’m especially mindful of the carbon footprint of the websites I build, and I’m eager to develop my skills in this area to create more <strong>responsible</strong> and <strong>sustainable solutions</strong>.<br>
-I’m looking for a company in the <strong>Toulouse area</strong> where I can continue learning from experienced developers and contribute to real-world projects.</p>
+I’m looking for a company in the <strong>Toulouse area</strong> where I can continue learning from experienced developers and contribute to projects.</p>
 
 ---
 
